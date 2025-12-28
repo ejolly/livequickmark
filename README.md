@@ -1,5 +1,7 @@
 # Live Quick Mark
 
+*fork extracting Logseq's frontend editor for personal use*
+
 A powerful outliner-based markdown editor library with bi-directional linking, tags, and full markdown support. Built with React, TypeScript, and the mldoc parser.
 
 ## Features
